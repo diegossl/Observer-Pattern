@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/observer.png"/>
+  <img src="https://refactoring.guru/images/patterns/cards/observer-mini.png"/>
 <p/>
 
 # Padrão de projeto observador
