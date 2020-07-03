@@ -1,4 +1,6 @@
-![](./assets/observer.png)
+<p align="center">
+  <img src="./assets/observer.png"/>
+<p/>
 
 # Padrão de projeto observador
 
