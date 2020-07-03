@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "./build/index.js",
   "scripts": {
-    "start": "./build/index.js",
+    "start": "node ./build/index.js",
     "server": "ts-node-dev --respawn --transpileOnly --no-notify ./index.ts"
   },
   "repository": "https://github.com/diegossl/Observer-Pattern.git",
