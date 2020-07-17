@@ -2,9 +2,9 @@
   <img src="https://refactoring.guru/images/patterns/cards/observer-mini.png"/>
 <p/>
 
-# Padrão de projeto observador
+# Padrão de projeto observer
 
-Observador é um padrão de design comportamental que permite definir um mecanismo de inscrição para notificar vários objetos sobre quaisquer eventos que ocorram no objeto que estão observando.
+O observer é um padrão de design comportamental que permite definir um mecanismo de inscrição para notificar vários objetos sobre quaisquer eventos que ocorram no objeto que estão observando.
 
 ## Setup
 
