@@ -20,7 +20,7 @@ To execute the project it is necessary to transpile the Typescript code to JavaS
 npm tsc
 ```
 
-### Uso
+### Use
 
 To execute the project already transpiled into JavaScript, type the following command in the terminal:
 
