@@ -2,19 +2,19 @@
   <img src="https://refactoring.guru/images/patterns/cards/observer-mini.png"/>
 <p/>
 
-# Padrão de projeto observer
+# Observer pattern
 
-Observer é um padrão de design comportamental que permite definir um mecanismo de inscrição para notificar vários objetos sobre quaisquer eventos que ocorram no objeto que estão observando.
+Observer is a behavioral design pattern that lets you define a subscription mechanism to notify multiple objects about any events that happen to the object they’re observing.
 
 ## Setup
 
-Para executar o projeto, será necessário instalar as dependências digitando o seguinte comando no terminal:
+To execute the project, it will be necessary to install the dependencies by typing the following command in the terminal:
 
 ```bash
 npm install
 ```
 
-Para executar o projeto é preciso transpilar o código Typescript para JavaScript. Para isso digite o seguinte comando no terminal:
+To execute the project it is necessary to transpile the Typescript code to JavaScript. To do this, type the following command in the terminal:
 
 ```bash
 npm tsc
@@ -22,12 +22,12 @@ npm tsc
 
 ### Uso
 
-Para executar o projeto já transpilado para JavaScript digite o seguinte comando no terminal:
+To execute the project already transpiled into JavaScript, type the following command in the terminal:
 
 ```bash
 npm start
 ```
 
-## Licença
+## License
 
 MIT
